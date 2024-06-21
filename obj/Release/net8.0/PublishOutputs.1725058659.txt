@@ -1,0 +1,7 @@
+C:\Users\eZee\OneDrive\Desktop\AzureTrainning\learningapp\bin\publish\learningapp.exe
+C:\Users\eZee\OneDrive\Desktop\AzureTrainning\learningapp\bin\publish\appsettings.Development.json
+C:\Users\eZee\OneDrive\Desktop\AzureTrainning\learningapp\bin\publish\appsettings.json
+C:\Users\eZee\OneDrive\Desktop\AzureTrainning\learningapp\bin\publish\learningapp.dll
+C:\Users\eZee\OneDrive\Desktop\AzureTrainning\learningapp\bin\publish\learningapp.deps.json
+C:\Users\eZee\OneDrive\Desktop\AzureTrainning\learningapp\bin\publish\learningapp.runtimeconfig.json
+C:\Users\eZee\OneDrive\Desktop\AzureTrainning\learningapp\bin\publish\learningapp.pdb
